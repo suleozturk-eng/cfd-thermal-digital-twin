@@ -1,4 +1,5 @@
 # Real-Time Thermal Surrogate Model Using 3D CFD & Machine Learning
+[![Streamlit App](https://streamlit.io)](https://cfd-thermal-digital-twin-brb2yfogirmjng9m5hjuft.streamlit.app/)
 
 A physics-informed, real-time thermal surrogate model combining **3D CFD simulations (SimScale)** and **Support Vector Regression (SVR)** for data center cooling optimization and digital twin applications.
 
